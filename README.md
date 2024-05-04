@@ -11,6 +11,4 @@ yarn test # run integration test
 yarn test:e2e # run e2e tests
 ```
 
-The code reflects what was explained in the video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uAKzFhE3rxU/0.jpg)](https://www.youtube.com/watch?v=uAKzFhE3rxU)
