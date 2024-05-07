@@ -1,10 +1,12 @@
 ###  Welcome to Authentication and Authorization Nestjs Repository 
 
-# NestJs Jwt Authentication example with an access token and refresh token - Integration and End-to-end tests included
+#### You will find in this repo the following stuff:
 
-This is an example of how to implement an authentication system in NestJs using passport.js, and JSON web tokens (JWT).
+* NestJs Jwt Authentication example with an access token and refresh token - Integration and End-to-end tests included
 
-I've included integration tests in the auth module under the "test" folder.
+* This is an example of how to implement an authentication system in NestJs using passport.js, and JSON web tokens (JWT).
+
+* I've included integration tests in the auth module under the "test" folder.
 
 The e2e tests on the other hand are in the root test folder.
 
